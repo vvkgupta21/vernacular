@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vernacular</string>
+    <string name="android_is_one_of_the_few_popular_mobile_operating_systems_having_millions_of_users_over_190_countries_and_growing_day_by_day_so_when_you_are_aiming_your_app_to_be_globally_successful_it_is_always_a_good_idea_to_make_the_app_localized">Android is one of the few popular mobile operating systems having millions of users over 190 countries and growing day by day. So when you are aiming your app to be globally successful, it is always a good idea to make the app localized.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_language_setting">LanguageSetting</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
